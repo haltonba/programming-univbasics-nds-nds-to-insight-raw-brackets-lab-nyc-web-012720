@@ -23,7 +23,6 @@ def directors_totals(nds)
     result[director_name] = director_total
     director_counter += 1
   end
-  
   result
   nil
 end
